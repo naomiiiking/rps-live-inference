@@ -1,0 +1,12 @@
+{
+  "num_classes": 3,
+  "class_names": [
+    "paper",
+    "rock",
+    "scissors"
+  ],
+  "image_size": [
+    128,
+    128
+  ]
+}

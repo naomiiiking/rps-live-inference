@@ -1,0 +1,13 @@
+{
+  "num_classes": 3,
+  "class_names": [
+    "paper",
+    "rock",
+    "scissors"
+  ],
+  "image_size": [
+    128,
+    128
+  ],
+  "preprocessing": "whiten() background to white before the test transform"
+}
